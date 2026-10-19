@@ -1,6 +1,6 @@
 cask "st-reborn" do
-  version "1.0.16"
-  sha256 "bc2a0e23cc18995b1ad6d4e4f0691bb2a197486dccb79b41b85f5bcbbbb64d26"
+  version "1.0.17"
+  sha256 "8714932d362ac3d44dc9bb4bb91c344a8f9f26c2934bac04f4442f2937a40ea4"
 
   url "https://github.com/JRpersonal/streborn/releases/download/v#{version}/STR-macOS.dmg",
       verified: "github.com/JRpersonal/streborn/"
